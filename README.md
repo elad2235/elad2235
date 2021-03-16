@@ -3,9 +3,9 @@
 
 ## I'm a Software Engineering student at SCE 🎓
 ## You Can Check my recent project on   [![Website](https://img.shields.io/website?label=therandom.dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://therandom.dev)
-</br>
+<br/>
 ### Languages and Tools:
-</br>
+<br/>
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
