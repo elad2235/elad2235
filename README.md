@@ -5,11 +5,11 @@
 ## You Can Check my recent project on   [![Website](https://img.shields.io/website?label=therandom.dev&style=for-the-badge&url=https%3A%2F%therandom.dev)](https://therandom.dev)
 
 ## Languages:
-# Python, C, JavaScript, Java.
+Python, C, JavaScript, Java.
 ## Tools:
-# Docker, Jenkins, Jira, Redis, Postman, Trello.
+Docker, Jenkins, Jira, Redis, Postman, Trello.
 ## Web Development:
-# React, NodeJS
+React, NodeJS
 
 ### Connect with me 💬
 
