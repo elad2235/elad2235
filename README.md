@@ -11,6 +11,27 @@ Docker, Jenkins, Jira, Redis, Postman, Trello.
 ## Web Development:
 React, NodeJS
 
+```javascript
+const elad = {
+    code: ["Javascript", "Python", "Java", "C"],
+    askMeAbout: ["Cybersecurity", "Web development", "Machine learning"],
+    technologies: {
+        frontEnd: {
+            js: ["react"],
+            css: ["Material-ui"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+        },
+        devOps: ["AWS", "Docker🐳", "Nginx"],
+        databases: ["mongoDB", "MySql"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv"]
+    },
+    architecture: ["Single page applications"],
+    currentProject: "I am developing a Speaker Authentication API."
+};
+```
+
 ### Connect with me 💬
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
