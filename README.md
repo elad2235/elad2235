@@ -4,13 +4,6 @@
 ## I'm a Software Engineering student at SCE 🎓
 ## You Can Check my recent project on   [![Website](https://img.shields.io/website?label=therandom.dev&style=for-the-badge&url=https%3A%2F%therandom.dev)](https://therandom.dev)
 
-## Languages:
-Python, C, JavaScript, Java.
-## Tools:
-Docker, Jenkins, Jira, Redis, Postman, Trello.
-## Web Development:
-React, NodeJS
-
 ```javascript
 const elad = {
     code: ["Javascript", "Python", "Java", "C"],
@@ -25,7 +18,7 @@ const elad = {
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongoDB", "MySql"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv"]
+        tools: ["Docker", "Jenkins", "Jira", "Redis", "Postman", "Trello"],
     },
     architecture: ["Single page applications"],
     currentProject: "I am developing a Speaker Authentication API."
