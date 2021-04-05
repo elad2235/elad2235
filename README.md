@@ -15,6 +15,7 @@ const elad = {
         },
         backEnd: {
             js: ["node", "express"],
+            python: ["Flask"],
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongoDB", "MySql"],
