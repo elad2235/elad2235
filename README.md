@@ -27,12 +27,12 @@ const elad = {
 ```
 
 ## Recent Projects
-<p align="center">
-Voice Authentication using Python NodeJS and React 
-</p>
-<p align="center">
-<img width="500" src="https://user-images.githubusercontent.com/34191499/125207248-e1b90100-e293-11eb-9d48-d8feae2cf572.gif" alt="Final Project">
-</p>
+<div align="center">
+    <p>
+        Voice Authentication using Python NodeJS and React 
+    </p>
+        <img width="500" src="https://user-images.githubusercontent.com/34191499/125207248-e1b90100-e293-11eb-9d48-d8feae2cf572.gif" alt="Final Project">
+</div>
 
 ### Connect with me 💬
 
