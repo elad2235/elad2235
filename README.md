@@ -26,7 +26,7 @@ const elad = {
 };
 ```
 
-## Recent Projects
+## Recent Work
 <div align="center">
     <p>
         Voice Authentication using Python NodeJS and React 
@@ -36,7 +36,7 @@ const elad = {
 
 <div align="center">
     <p>
-        Leaflet map functions 
+        Leaflet and pure JavaScript 
     </p>
         <img width="500" src="https://user-images.githubusercontent.com/34191499/127322611-59dac555-4dd3-4f15-b58e-50322ef54051.gif" alt="Final Project">
 </div>
