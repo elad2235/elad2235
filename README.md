@@ -34,6 +34,14 @@ const elad = {
         <img width="500" src="https://user-images.githubusercontent.com/34191499/125207248-e1b90100-e293-11eb-9d48-d8feae2cf572.gif" alt="Final Project">
 </div>
 
+<div align="center">
+    <p>
+        Leaflet map functions 
+    </p>
+        <img width="500" src="https://user-images.githubusercontent.com/34191499/127322611-59dac555-4dd3-4f15-b58e-50322ef54051.gif" alt="Final Project">
+</div>
+
+
 ### Connect with me 💬
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
