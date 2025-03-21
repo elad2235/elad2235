@@ -2,7 +2,6 @@
 
 
 ## I'm a Software Engineering Graduate From SCE 🎓
-## You Can Check my recent project on   [![Website](https://img.shields.io/website?label=therandom.dev&style=for-the-badge&url=https%3A%2F%therandom.dev)](https://therandom.dev)
 
 ```javascript
 const elad = {
